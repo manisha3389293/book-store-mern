@@ -1,4 +1,4 @@
-//////////////////////////Book Store MERN Application/////////////////////////////////////
+Book Store MERN Application/
 #Description
 This is a full-stack Book Store application built using the MERN (MongoDB, Express.js, React, and Node.js) stack. The project serves as a comprehensive demonstration of CRUD (Create, Read, Update, Delete) operations, hardware-software partitioning for web architecture, and secure API communication.
 
